@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 A machine learning project built during my Week 1 Data Science internship.
 The goal was to predict house prices based on features like area, 
@@ -6,7 +6,7 @@ number of bathrooms, and air conditioning using regression models.
 
 ---
 
-## 📦 Dataset
+##  Dataset
 - Source: [Kaggle - Housing Prices Dataset]
 (https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 - 545 houses, 13 features
@@ -14,7 +14,7 @@ number of bathrooms, and air conditioning using regression models.
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python (Google Colab)
 - Pandas : data cleaning
 - Scikit-learn : model building
@@ -22,7 +22,7 @@ number of bathrooms, and air conditioning using regression models.
 
 ---
 
-## ✅ What I Did
+##  What I Did
 1. Loaded and explored the dataset
 2. Cleaned data : encoded yes/no columns and furnishing status
 3. Trained two models and compared them
@@ -31,7 +31,7 @@ number of bathrooms, and air conditioning using regression models.
 
 ---
 
-## 📊 Model Results
+##  Model Results
 
 | Model | MAE | RMSE | R² Score |
 |---|---|---|---|
@@ -52,7 +52,7 @@ performed better on this small dataset!
 
 ---
 
-## 📈 Charts
+##  Charts
 
 ### Price Distribution
 ![Price Distribution](charts/chart1_price_distribution.png)
@@ -65,6 +65,6 @@ performed better on this small dataset!
 
 ---
 
-## 💡 Business Recommendation
+##  Business Recommendation
 Focus on larger properties , area is the #1 driver of price.
 Adding bathrooms and AC can further boost property value.
